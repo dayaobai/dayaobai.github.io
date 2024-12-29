@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "dayaobai's personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome to my personal website! I'm XXX, currently studying at XX University in XX, majoring in a master's degree.On this site, I record my learning, technical exploration, and development experiences.
+
+This website is my knowledge base, but also a platform for sharing and communication.I'm a firm believer that the dissemination and collision of knowledge can promote the growth and progress of the technical community.I hope my blog inspires you and helps you take a firmer step in your technology journey!
+
+If you have any suggestions for my content or if you're interested in related fields, I'd love to hear from you! Leave a comment or contact me, and let's discuss and grow together!
 
 A data-driven personal website
 ======
