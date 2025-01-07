@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "博客文章"
+permalink: /blog_posts/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.blog_posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
