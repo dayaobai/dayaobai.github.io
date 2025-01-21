@@ -22,6 +22,9 @@ main:
 
   - title: "Samples"
     url: /samples/ 
+
+  - title: "Samples2"
+    url: /samples2/
   # - title: "Portfolio"
   #   url: /portfolio/
         
