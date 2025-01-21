@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "文章模板"
+title: "samples"
 permalink: /samples/
 author_profile: true
 ---
 
 {% include base_path %}
 
+{% assign sorted_samples = site.samples | sort: 'number' %}
 
-{% for post in site.samples %}
+{% for post in sorted_samples %}
   {% include archive-single.html %}
 {% endfor %}
 

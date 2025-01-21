@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "有我必成"
+title                    : "有我必成" 
 title_separator          : "-"
 name                     : &name "Your Sidebar Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "1.jpg"
   name             : "Sheng Zhao"
-  pronouns         : "him"  
+  pronouns         :   
   bio              : "Never give up"
   location         : "Earth"
   employer         : "No1 University"
