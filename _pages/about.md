@@ -15,13 +15,3 @@ If you have any suggestions for my content or if you're interested in related fi
 
 
 
-## Here is my latest blogs:
-
-[第一篇博客](\blog_posts\第一篇博客)
-
-[第二篇博客](\blog_posts\第二篇博客)
-
-[第三篇博客](\blog_posts\第三篇博客) 
-
-[第四篇博客](\blog_posts\第四篇博客)
-
