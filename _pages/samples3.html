@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "samples3"
+permalink: /samples3/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sorted_samples3 = site.samples3 | sort: 'number' %}
+
+{% for post in sorted_samples3 %}
+  {% include archive-single.html %}
+{% endfor %}
+

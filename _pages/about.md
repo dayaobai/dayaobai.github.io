@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm Sheng Zhao. On this site, I record my learning, technical exploration, and development experiences.
+Hi, I’m Sheng Zhao — welcome to my little corner of the internet! 👋
 
-This website is my knowledge base, but also a platform for sharing and communication. I'm a firm believer that the dissemination and collision of knowledge can promote the growth and progress of the technical community. I hope my blog inspires you and helps you take a firmer step in your technology journey!
+This is where I document my learning journey, technical adventures, and the projects that keep me curious and excited. 🚀📚
+Think of this site as my personal knowledge base, but also a space for sharing ideas, exchanging thoughts, and sparking inspiration.
 
-If you have any suggestions for my content or if you're interested in related fields, I'd love to hear from you! Leave a comment or contact me, and let's discuss and grow together!
+I believe that when knowledge flows, creativity grows — every discussion, every question, every tiny spark can lead to something amazing. 🔥💡
+If something here helps you, inspires you, or simply makes you think a bit deeper, then this blog has done its job!
+
+If you're interested in the topics I write about or have suggestions for what I should explore next, feel free to reach out — drop a comment or send me a message. Let’s learn, build, and grow together! 🤝✨
+
+Enjoy your stay! 😊
 
 
 
